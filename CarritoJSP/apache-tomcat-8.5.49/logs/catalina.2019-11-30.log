@@ -1,0 +1,60 @@
+30-Nov-2019 16:53:16.467 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor:   Apache Tomcat/8.5.49
+
+30-Nov-2019 16:53:16.468 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 17 2019 18:45:30 UTC
+30-Nov-2019 16:53:16.468 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:         8.5.49.0
+30-Nov-2019 16:53:16.468 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+30-Nov-2019 16:53:16.468 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      5.0.0-36-generic
+
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:          amd64
+
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:     Private Build
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/shimi/Descargas/apache-tomcat-8.5.49
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/shimi/Descargas/apache-tomcat-8.5.49
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/shimi/Descargas/apache-tomcat-8.5.49/conf/logging.properties
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|shimi-15IKB
+30-Nov-2019 16:53:16.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/shimi/Descargas/apache-tomcat-8.5.49
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/shimi/Descargas/apache-tomcat-8.5.49
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/shimi/Descargas/apache-tomcat-8.5.49/temp
+30-Nov-2019 16:53:16.470 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+30-Nov-2019 16:53:16.618 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Nov-2019 16:53:16.632 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Nov-2019 16:53:16.645 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["ajp-nio-8009"]
+
+30-Nov-2019 16:53:16.646 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Nov-2019 16:53:16.647 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Initialization processed in 525 ms
+30-Nov-2019 16:53:16.681 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Nov-2019 16:53:16.682 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.49
+30-Nov-2019 16:53:16.697 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/docs] de la aplicación web
+30-Nov-2019 16:53:16.922 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/docs] has finished in [223] ms
+30-Nov-2019 16:53:16.922 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/manager] de la aplicación web
+30-Nov-2019 16:53:16.946 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/manager] has finished in [24] ms
+30-Nov-2019 16:53:16.946 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/ROOT] de la aplicación web
+30-Nov-2019 16:53:16.956 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/ROOT] has finished in [10] ms
+30-Nov-2019 16:53:16.956 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/examples] de la aplicación web
+30-Nov-2019 16:53:17.185 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/examples] has finished in [229] ms
+30-Nov-2019 16:53:17.185 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/host-manager] de la aplicación web
+30-Nov-2019 16:53:17.198 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/shimi/Descargas/apache-tomcat-8.5.49/webapps/host-manager] has finished in [13] ms
+30-Nov-2019 16:53:17.201 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Nov-2019 16:53:17.208 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+30-Nov-2019 16:53:17.213 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in 566 ms
+30-Nov-2019 16:53:26.696 INFORMACIÓN [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [/home/shimi/Descargas/apache-tomcat-8.5.49/conf/Catalina/localhost/WebApplication1.xml]
+30-Nov-2019 16:53:27.087 INFORMACIÓN [http-nio-8080-exec-9] com.sun.faces.config.ConfigureListener.contextInitialized Inicializando Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) para el contexto '/WebApplication1'
+30-Nov-2019 16:53:27.177 INFORMACIÓN [http-nio-8080-exec-9] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: hay presentes anotaciones PostConstruct/PreDestroy.  Los métodos de beans administrados marcados con estas anotaciones procesarán dichas anotaciones.
+30-Nov-2019 16:53:27.498 INFORMACIÓN [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/shimi/Descargas/apache-tomcat-8.5.49/conf/Catalina/localhost/WebApplication1.xml] has finished in [801] ms
+30-Nov-2019 16:53:27.502 INFORMACIÓN [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+30-Nov-2019 16:56:01.999 INFORMACIÓN [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+30-Nov-2019 16:56:01.999 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Nov-2019 16:56:02.006 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Nov-2019 16:56:02.012 INFORMACIÓN [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+30-Nov-2019 16:56:02.045 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Nov-2019 16:56:02.046 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+30-Nov-2019 16:56:02.047 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Nov-2019 16:56:02.047 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
